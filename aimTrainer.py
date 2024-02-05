@@ -20,7 +20,7 @@ targetPadding = 30
 # R-G-B
 backgroundColor = (0 , 25, 40)
 
-# Top-Bar thinds
+# Top-Bar things
 topBarColor = "grey"
 topBarHeight = 50
 topBarTextColor = "black"
